@@ -1,0 +1,14 @@
+# Eiyaneth Expresión Creativa - Tienda
+
+Abre `index.html` en un navegador para ver la tienda.
+
+La página incluye:
+- Diseño femenino y rosado responsive para celular.
+- 6 productos con las fotos suministradas.
+- Precios indicados por la clienta.
+- Botones individuales que abren WhatsApp: 3202773859.
+- Sección de medios de pago para consultar por WhatsApp.
+- Secciones de inicio, tienda, pagos y contacto.
+
+Para cambiar productos, fotos o precios, edita `index.html`.
+Para cambiar colores, tipografías o diseño, edita `estilos.css`.
